@@ -2,9 +2,9 @@
 
 # 📅 Academic Calendar Pro | 校務行事曆生成系統
 
-[Project Type](https://img.shields.io/badge/Project-EdTech-blue)
+![Project Type](https://img.shields.io/badge/Project-EdTech-blue)
 
-[Tech Stack](https://img.shields.io/badge/Stack-React_%7C_Tailwind_%7C_SheetJS-green)
+![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20SheetJS-green)
 
 ## 💡 目的
 
@@ -20,6 +20,8 @@
 - 支援 Google日曆同步：一鍵匯出 `.ics` 檔案
 - **文書自動化**：支援匯出 Word 版行事清單與 Excel 資料庫管理。
 - **備份**
+- **放大字體，提升閱讀舒適度**：目前至少12號字
+
 
 ## 🛠️ 技術細節 (Technical Highlights)
 
