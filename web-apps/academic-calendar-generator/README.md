@@ -1,8 +1,6 @@
 # 📅 Academic Calendar Generator| 學校行事曆生成系統
 
-![Project Type](https://img.shields.io/badge/Project-EdTech-blue)
-
-![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind-97ca00)
+![Project Type](https://img.shields.io/badge/Project-EdTech-blue) ![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind-97ca00)
 
 ## 🔗系統連結
 
