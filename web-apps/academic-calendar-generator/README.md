@@ -1,14 +1,12 @@
-# 行事曆生成系統README
-
 # 📅 Academic Calendar Generator| 學校行事曆生成系統
 
 ![Project Type](https://img.shields.io/badge/Project-EdTech-blue)
 
-![Tech Stack](https://img.shields.io/badge/Stack-React_%7C_Tailwind_%7C_SheetJS-green)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind-97ca00)
 
 ## 🔗系統連結
 
-> [**立即開啟系統：學校行事曆自動生成系統**](https://sysherrylee.github.io/school-portfolio/web-apps/academic-calendar-generator/index.html)
+> [**學校行事曆自動生成系統**](https://sysherrylee.github.io/school-portfolio/web-apps/academic-calendar-generator/index.html)
 
 ## 💡一次輸入，多元產出
 
@@ -21,7 +19,7 @@
 ## 🚀 特色功能
 
 | **功能特色**       | **詳細說明**                                                                                           | **預期效益**                                             |
-| ------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| -------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | **彈性日期設定**   | 自行定義學期開始與結束日期，系統自動抓取對應月份，無須手動繪製表格。以及能自動計算週次及學生出席天數。 | 減少每學期重新排版跟週次、出席天數等計算，降低行政負擔。 |
 | **同步Google日曆** | 支援匯出 `.ics` 標準格式，一鍵將校務行事匯入Google日曆。                                               | 達成校務google行事曆同步。                               |
 | **多種匯出格式**   | 提供「行政報表」、「家長簡曆」、「月曆視覺版」等不同排版選擇。                                         | 滿足不同人的資訊需求。                                   |
